@@ -6,12 +6,12 @@ To use, get a free API key [here](https://www.weatherapi.com/).
 ## Usage
 To install
 ```
-npm i weatherapi
+npm i weather-api-client
 ```
 
 To use
 ```
-const Weather = require('weather-api');
+const Weather = require('weather-api-client');
 
 const weather = new Weather(API_KEY);
 
