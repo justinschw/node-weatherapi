@@ -11,7 +11,7 @@ npm i weatherapi
 
 To use
 ```
-const Weather = require('weatherapi');
+const Weather = require('weather-api');
 
 const weather = new Weather(API_KEY);
 

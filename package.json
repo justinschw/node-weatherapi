@@ -1,5 +1,5 @@
 {
-  "name": "weatherapi",
+  "name": "weather-api",
   "version": "1.0.0",
   "description": "Library for calling weatherapi.com",
   "main": "index.js",
