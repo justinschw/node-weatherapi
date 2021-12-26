@@ -1,0 +1,19 @@
+{
+  "name": "weatherapi",
+  "version": "1.0.0",
+  "description": "Library for calling weatherapi.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "forecast"
+  ],
+  "author": "Justin Schwartzbeck",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.24.0",
+    "joi": "17.5.0"
+  }
+}
